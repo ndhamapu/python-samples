@@ -4,7 +4,7 @@ x = lambda a, b : a * b
 print(x(5, 6))
 
 
-# this function is returning a lambda funcion so here value if n is set
+# this function is returning a lambda funcion so here value of n is set
 def myfunc(n):
    return lambda a : a * n
 
